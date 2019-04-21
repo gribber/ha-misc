@@ -1,5 +1,8 @@
 ## Script to handle auto updates of ikea firmwares
 
+these instructions are made for debian
+
+
 install hass-cli:  
 https://github.com/home-assistant/home-assistant-cli 
 
