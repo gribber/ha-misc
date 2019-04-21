@@ -1,9 +1,9 @@
 ## Script to handle auto updates of ikea firmwares
 
-install hass-cli: 
+install hass-cli:  
 https://github.com/home-assistant/home-assistant-cli 
 
-download the ikea firmware script that comes with deconz rest here: 
+download the ikea firmware script that comes with deconz rest here:  
 https://github.com/dresden-elektronik/deconz-rest-plugin
 
 edit the file (ikea-ota-download.py)
